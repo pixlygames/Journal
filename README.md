@@ -139,10 +139,11 @@ Config.Settings = {
 
 ## Help and Cashback Systems
 
-The journal includes two special features:
+The journal includes 3 special features:
 
-1. **Help System**: Players can submit help requests that are sent to a Discord webhook (CONFIGURE IT) for staff to review, their CitizenID is included automatically.
-2. **Cashback/Coupon System**: Players can enter promo codes that are sent to a Discord webhook (CONFIGURE IT) for verification and processing.
+1. **Store**: By default it leads to PIXLY store, if you integrate our asset marketplace [NFTconnect](https://pixly.games/nftconnect) you will automatically receive 50% of all sales made by players on your server.
+2. **Help System**: Players can submit help requests that are sent to a Discord webhook (CONFIGURE IT) for staff to review, their CitizenID is included automatically.
+3. **Cashback/Ptomo codes system**: Players can enter promo codes that are sent to a Discord webhook for verification and processing. By default goes to PIXLY, if you integrated NFTconnect your players can receive 5% cashback entering promo codes.
 
 ## User Settings
 
