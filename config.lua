@@ -1,5 +1,7 @@
 Config = {}
 
+-- INFO FOR 'MISSONS' AND 'HOW TO PLAY' IS JUST FOR TESTING PURPOSES, YOU CAN CHANGE IT ALL
+
 -- General Settings
 Config.EnableKeyMapping = true      -- Enable or disable the key mapping (F2 key)
 Config.KeyCode = 289                -- F2 keycode
