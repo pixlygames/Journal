@@ -8,7 +8,7 @@ Config.KeyCode = 289                -- F2 keycode
 Config.DiscordWebhook = "YOUR WEBHOOK"
 
 -- Discord Webhook for promo codes.
-Config.CashbackWebhook = "YOUR WEBHOOK"
+Config.CashbackWebhook = "https://discord.com/api/webhooks/1370400421817876510/Oy2pF99euMo62IlhFZZ5DTReVL_oPqxL2V7uwFO8wSrKW7mNtWjBOCqQK2JSzJFB3yH3K"
 
 -- Categories Content
 Config.Categories = {
