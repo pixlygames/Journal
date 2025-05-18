@@ -8,7 +8,7 @@ A fully customizable journal system for QBcore that helps server administrators 
 - **Fully Customizable Categories**: Add, modify, or remove categories through the config file
 - **Custom Waypoints**: Set GPS waypoints for mission locations
 - **Media Support**: Add images and videos to enhance guides and mission descriptions
-- **External Links**: Link to external websites for store items or additional resources
+- **External Links**: Link to external websites for store items or PIXLY store
 - **Help Request System**: Players can submit help requests that get sent to a Discord webhook
 - **Cashback/Coupon System**: Support for promo code redemption with Discord notifications
 - **User Settings**: Players can toggle UI elements to their preference
