@@ -157,11 +157,11 @@ This resource is designed for all players and does not require special permissio
 
 ## Support
 
-For support or questions, please contact the author or visit our Discord server.
+If you encounter any issues during setup or have questions, please visit Discord or see website for contact information:
 
 ## Credits
 
-- Created by Pixly Games
+Created by Pixly Games
 
 ## License
 
