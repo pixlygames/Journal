@@ -1,6 +1,6 @@
 # Journal System for FiveM QBCore Servers
 
-A fully customizable journal system for QBcore that helps server administrators provide guides, missions, announcements, help, and store information to players in an elegant UI.
+A fully customizable journal system for QBcore, designed to help server administrators provide guides, missions, announcements, and support information to players through an elegant UI. It even includes a store to assist server creators with monetization.
 [Watch](https://youtu.be/AWJz5CQFkyE?feature=shared) video.
 
 ## Features
