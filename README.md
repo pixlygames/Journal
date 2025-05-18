@@ -138,7 +138,7 @@ Config.Settings = {
 }
 ```
 
-## Help and Cashback Systems
+## Store, Help and Cashback Systems
 
 The journal includes 3 special features:
 
