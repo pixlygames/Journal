@@ -19,7 +19,7 @@ A fully customizable journal system for QBcore, designed to help server administ
 
 1. Download the resource
 2. Place the `journal` folder in your `resources/[add-scripts]` directory
-3. (Optional) integrate our asset marketplace [NFTconnect](https://pixly.games/nftconnect) you will automatically receive 50% of all sales made by players on your server, Journal already supports it.
+3. (Optional) integrate our asset marketplace [NFTconnect](https://pixly.games/nftconnect) you will automatically receive 50% of all sales made by players on your server. Journal already supports it and you will not need to include Store from NFTconnect package. 
 4. Add `ensure journal` to your server.cfg
 5. Customize the `config.lua` file to match your server's needs
 6. Restart your server
