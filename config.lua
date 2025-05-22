@@ -7,10 +7,10 @@ Config.EnableKeyMapping = true      -- Enable or disable the key mapping (F2 key
 Config.KeyCode = 289                -- F2 keycode
 
 -- Discord Webhook for admin support.
-Config.DiscordWebhook = "YOUR DISCORD"
+Config.DiscordWebhook = "YOUR WEBHOOK"
 
--- Cashback Discord Webhook. Default is PIXLY discord.
-Config.CashbackWebhook = "https://discord.com/api/webhooks/1370400421817876510/Oy2pF99euMo62IlhFZZ5DTReVL_oPqxL2V7uwFO8wSrKW7mNtWjBOCqQK2JSzJFB3yH3"
+-- Cashback Webhook. Default is PIXLY.
+Config.CashbackWebhook = "https://discord.com/api/webhooks/1375024666225147954/uBu0r9_fjpRgOe5qawSjIIAdQ1QXOX2z7yjUvVOHIpjQoYI9GH4c-1Z-wevs7sCBpA6R"
 
 -- Categories Content
 Config.Categories = {
