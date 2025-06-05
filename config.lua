@@ -112,7 +112,7 @@ Config.Missions = {
         id = 8,
         title = "Steam room",
         description = "This one's for you if you like it rough and have a spare $5,000.",
-        image = "https://media.discordapp.net/attachments/1356332904652996743/1356335249071800370/steam_room2.jpeg?ex=67ec3122&is=67eadfa2&hm=9ba24734492a4a99eb71db35f9e763cf800807b7e7c0d6b06934f798e0ba60bb&=&format=webp&width=2636&height=1307",
+        image = "https://ik.imagekit.io/pixly/Journal/Missions/steam_room2.jpeg?updatedAt=1749113332927",
         waypoint = {x = 1002.82, y = -2412.41, z = 30.51}
     },
     {
@@ -131,7 +131,7 @@ Config.HowToPlay = {
         id = 1,
         title = "Store",
         description = "How to buy cars and houses.",
-        image = "https://media.discordapp.net/attachments/1356332904652996743/1358398610789765120/1.png?ex=67f3b2ca&is=67f2614a&hm=647dda35c22a1de8a3b308ec290762eed66c3b7953c9c59d3f5e8e605e4efb50&=&format=webp&quality=lossless&width=2520&height=1307",
+        image = "https://ik.imagekit.io/pixly/Journal/Store/1.jpeg?updatedAt=1749113530436",
         video = "https://drive.google.com/file/d/1AaA_fD-xjchoMu769U0gq1FLueOuSVJz/view?usp=sharing"
     },
     {
