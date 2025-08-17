@@ -157,12 +157,5 @@ This resource is designed for all players and does not require special permissio
 
 ## Support
 
-If you encounter any issues during setup or have questions, please visit Discord or see website for contact information:
+If you encounter any issues during setup or have questions, please visit [Telegram](https://t.me/pixlygames) or see website for contact information:
 
-## Credits
-
-Created by Pixly Games
-
-## License
-
-MIT license.
